@@ -720,7 +720,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "5bc5a928-9f1e-4538-bf4d-f05b22c94e22")
 	)
-	(model "${KIPRJMOD}/3d_models/RASPBERRY_PI_ZERO_2_W.step"
+	(model "${KIPRJMOD}/3d_models/RPI_Zero2W/RASPBERRY_PI_ZERO_2_W.step"
 		(offset
 			(xyz 0 0 0)
 		)
