@@ -7,4 +7,8 @@
   (lib (name "DF40C-40DP-0.4V_51_")(type "KiCad")(uri "${KIPRJMOD}/symbols/connectors/Hirose_D40/Plug/DF40C-40DP-0.4V_51_.kicad_sym")(options "")(descr ""))
   (lib (name "61082-041602LF")(type "KiCad")(uri "${KIPRJMOD}/symbols/connectors/Amphenol_BerkStak/Receptacle/61082-041602LF.kicad_sym")(options "")(descr ""))
   (lib (name "61083-041402LF")(type "KiCad")(uri "${KIPRJMOD}/symbols/connectors/Amphenol_BerkStak/Plug/61083-041402LF.kicad_sym")(options "")(descr ""))
+  (lib (name "H3LIS331DLTR")(type "KiCad")(uri "${KIPRJMOD}/symbols/H3LIS331DLTR/H3LIS331DLTR.kicad_sym")(options "")(descr ""))
+  (lib (name "CDSOT23-SM712")(type "KiCad")(uri "${KIPRJMOD}/symbols/CDSOT23-SM712/CDSOT23-SM712.kicad_sym")(options "")(descr ""))
+  (lib (name "A-DF_09_A_KG-T4S")(type "KiCad")(uri "${KIPRJMOD}/symbols/A-DF 09 AKG-T4S/A-DF_09_A_KG-T4S.kicad_sym")(options "")(descr ""))
+  (lib (name "0436500300")(type "KiCad")(uri "${KIPRJMOD}/symbols/0436500300/0436500300.kicad_sym")(options "")(descr ""))
 )
