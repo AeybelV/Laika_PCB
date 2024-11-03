@@ -11,4 +11,5 @@
   (lib (name "CDSOT23-SM712")(type "KiCad")(uri "${KIPRJMOD}/footprints/CDSOT23-SM712")(options "")(descr ""))
   (lib (name "A-DF 09 AKG-T4S")(type "KiCad")(uri "${KIPRJMOD}/footprints/A-DF 09 AKG-T4S")(options "")(descr ""))
   (lib (name "0436500300")(type "KiCad")(uri "${KIPRJMOD}/footprints/0436500300")(options "")(descr ""))
+  (lib (name "Hirose D52")(type "KiCad")(uri "${KIPRJMOD}/footprints/connectors/Hirose_D52/Socket")(options "")(descr ""))
 )
